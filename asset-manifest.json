@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Emoji-Picker/static/css/main.169d5940.css",
+    "main.js": "/React-Emoji-Picker/static/js/main.5194faef.js",
+    "index.html": "/React-Emoji-Picker/index.html",
+    "main.169d5940.css.map": "/React-Emoji-Picker/static/css/main.169d5940.css.map",
+    "main.5194faef.js.map": "/React-Emoji-Picker/static/js/main.5194faef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.169d5940.css",
+    "static/js/main.5194faef.js"
+  ]
+}
